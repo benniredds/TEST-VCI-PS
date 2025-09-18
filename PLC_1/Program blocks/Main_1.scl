@@ -1,0 +1,10 @@
+﻿ORGANIZATION_BLOCK "Main_1"
+TITLE = "Main Program Sweep (Cycle)"
+{ S7_Optimized_Access := 'TRUE' }
+VERSION : 0.1
+
+BEGIN
+	"FB_NEW_DB_1"(in:=false);
+	
+END_ORGANIZATION_BLOCK
+

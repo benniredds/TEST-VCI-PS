@@ -1,0 +1,10 @@
+﻿DATA_BLOCK "FB_NEW_DB_1"
+{ S7_Optimized_Access := 'TRUE' }
+VERSION : 0.1
+NON_RETAIN
+"FB_NEW"
+
+BEGIN
+
+END_DATA_BLOCK
+
