@@ -1,0 +1,18 @@
+﻿DATA_BLOCK "Dati"
+{ S7_Optimized_Access := 'TRUE' }
+VERSION : 0.1
+NON_RETAIN
+   VAR 
+      in1 : Bool;
+      out1 : Bool;
+      in2 : Bool;
+      out2 : Bool;
+      alarm : Bool;
+      alarm2 : Bool;
+   END_VAR
+
+
+BEGIN
+
+END_DATA_BLOCK
+
